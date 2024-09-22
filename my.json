@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": { "text": "5G Coverage (%) by State in Malaysia in 2024]" },
+    "title": { "text": "5G Coverage (%) by State in Malaysia in 2024" },
     "width": 800,
     "height": 400,
     "projection": {"type": "mercator","scale":2100,"center": [109.9758, 4.2105]},
